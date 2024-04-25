@@ -8,3 +8,10 @@ Technological Stack: The Highlander simulator was built using C# programming lan
 
 In summary, the Highlander simulator project represents a cohesive integration of modern software development practices and innovative technologies. By combining C# programming expertise with UWP framework capabilities, the application delivers an immersive simulation experience for users. With its intuitive interface and robust functionality, the Highlander simulator offers a captivating platform for exploring Highlander dynamics and observing simulation outcomes in real-time.
 Results:
+![firstImage](https://github.com/aniketsha/HighlanderSimulatorProject/assets/90695737/9395fddf-29a9-4310-a61c-6bb66f23d9ba)
+Now this is the simulation which you can see after running it. It ask for the size of the grid and number of good and bad highlanders. Then it starts the simulation. At the end of simulation it shows results like this:
+
+![secondImage](https://github.com/aniketsha/HighlanderSimulatorProject/assets/90695737/803ef779-91b0-4dbe-bbeb-a5c262247438)
+And this is the chunck of code that we coded to for the simulation:
+![thirdImage](https://github.com/aniketsha/HighlanderSimulatorProject/assets/90695737/a0e09128-9f96-4b6b-a5aa-c025541c98e4)
+
